@@ -1,7 +1,4 @@
-# Welcome to the GitHub Workflow Class
+# Open Source Opportunities: Rails Girls Summer of Code + Civic Tech Toronto
 
-Follow the directions from the class in this repo.
-
-Once you've completed a step, check back at the Wheelhouse class to see whether you completed it correctly.
-
-Happy learning!
+Link to Presentation
+https://docs.google.com/presentation/d/1eGFxKVHvik-uxBV257BhqhquW6jXQpThJs0J30AL0PI/edit?usp=sharing 
